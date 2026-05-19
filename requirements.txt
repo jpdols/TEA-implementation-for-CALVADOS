@@ -1,0 +1,2 @@
+# Current TEA-CALVADOS scripts use only the Python standard library.
+# Add packages here if analysis/plotting scripts are included later.

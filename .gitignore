@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env/
+
+# Generated output
+output/
+
+# Large simulation files
+*.dcd
+*.xtc
+*.trr
+*.tpr
+*.edr
+*.cpt
+*.gro
+*.log
+
+# Figures/reports generated from runs
+*.png
+*.pdf
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
